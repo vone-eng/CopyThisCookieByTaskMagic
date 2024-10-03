@@ -1,0 +1,2 @@
+# CopyThisCookieByTaskMagic
+CopyThisCookie By TaskMagic
