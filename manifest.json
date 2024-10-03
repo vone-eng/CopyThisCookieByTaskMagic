@@ -19,11 +19,5 @@
     "48": "icons/48x48.png",
     "128": "icons/128x128.png"
   },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["scripts/content.js"]
-    }
-  ],
   "host_permissions": ["<all_urls>"]
 }
